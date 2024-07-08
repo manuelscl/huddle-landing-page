@@ -171,7 +171,6 @@ body {
         background-image: url("./images/bg-desktop.svg");
         background-size: cover;
         padding: 4rem 5rem;
-        overflow: hidden;
     }
 
     .main-content {
